@@ -9,4 +9,6 @@ Players
   they lose the game at 0
 
 Game
-
+  will decide whose turn it is
+  will get the players guess and if wrong will make the player lose a life
+  will loop through player turns until one person loses at thatv point the game will end
