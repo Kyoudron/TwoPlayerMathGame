@@ -1,0 +1,12 @@
+Number Maker
+  generate two numbers that between 1 to 20
+
+Players
+  two players
+  both start at 3
+  both have a name
+  if they get the question wrong they lose one life
+  they lose the game at 0
+
+Game
+
